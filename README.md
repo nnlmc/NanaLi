@@ -12,6 +12,7 @@
 | gs_kuro_cos | 获取鸣潮 COS 内容的 GsCore 插件 | Python | <https://github.com/nnlmc/gs_kuro_cos> |
 | ChisaEating | GsCore 跨次元干饭插件 | Python | <https://github.com/nnlmc/ChisaEating> |
 | astrbot_plugin_kuro_cos | AstrBot 鸣潮库街区 COS 插件 | Python | <https://github.com/nnlmc/astrbot_plugin_kuro_cos> |
+| astrbot_plugin_web_screenshot | AstrBot 网页链接自动解析截图插件 | Python | <https://github.com/nnlmc/astrbot_plugin_web_screenshot> |
 
 ## 小工具
 
